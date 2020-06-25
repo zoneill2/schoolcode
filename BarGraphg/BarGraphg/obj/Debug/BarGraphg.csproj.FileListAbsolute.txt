@@ -1,0 +1,10 @@
+C:\Users\zacho\source\repos\BarGraphg\BarGraphg\bin\Debug\BarGraphg.exe.config
+C:\Users\zacho\source\repos\BarGraphg\BarGraphg\bin\Debug\BarGraphg.exe
+C:\Users\zacho\source\repos\BarGraphg\BarGraphg\bin\Debug\BarGraphg.pdb
+C:\Users\zacho\source\repos\BarGraphg\BarGraphg\obj\Debug\BarGraphg.csprojAssemblyReference.cache
+C:\Users\zacho\source\repos\BarGraphg\BarGraphg\obj\Debug\BarGraphg.Properties.Resources.resources
+C:\Users\zacho\source\repos\BarGraphg\BarGraphg\obj\Debug\BarGraphg.csproj.GenerateResource.cache
+C:\Users\zacho\source\repos\BarGraphg\BarGraphg\obj\Debug\BarGraphg.csproj.CoreCompileInputs.cache
+C:\Users\zacho\source\repos\BarGraphg\BarGraphg\obj\Debug\BarGraphg.exe
+C:\Users\zacho\source\repos\BarGraphg\BarGraphg\obj\Debug\BarGraphg.pdb
+C:\Users\zacho\source\repos\BarGraphg\BarGraphg\obj\Debug\BarGraphg.Form1.resources

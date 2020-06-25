@@ -1,0 +1,10 @@
+C:\Users\zacho\source\repos\Clicker\Clicker\bin\Debug\Clicker.exe.config
+C:\Users\zacho\source\repos\Clicker\Clicker\bin\Debug\Clicker.exe
+C:\Users\zacho\source\repos\Clicker\Clicker\bin\Debug\Clicker.pdb
+C:\Users\zacho\source\repos\Clicker\Clicker\obj\Debug\Clicker.csprojAssemblyReference.cache
+C:\Users\zacho\source\repos\Clicker\Clicker\obj\Debug\Clicker.Properties.Resources.resources
+C:\Users\zacho\source\repos\Clicker\Clicker\obj\Debug\Clicker.csproj.GenerateResource.cache
+C:\Users\zacho\source\repos\Clicker\Clicker\obj\Debug\Clicker.csproj.CoreCompileInputs.cache
+C:\Users\zacho\source\repos\Clicker\Clicker\obj\Debug\Clicker.exe
+C:\Users\zacho\source\repos\Clicker\Clicker\obj\Debug\Clicker.pdb
+C:\Users\zacho\source\repos\Clicker\Clicker\obj\Debug\Clicker.Clicker.resources
